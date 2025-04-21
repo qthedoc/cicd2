@@ -1,15 +1,37 @@
 # Changelog
 
-## [1.1.0](https://github.com/qthedoc/cicd2/compare/v1.0.0...v1.1.0) (2025-01-02)
-
-
-### Features
-
-* dimple ([3bf5d0d](https://github.com/qthedoc/cicd2/commit/3bf5d0d1cb1411d311e430c8f6eae4822cb028cc))
-
-## 1.0.0 (2025-01-02)
+## [1.2.1](https://github.com/qthedoc/cicd/compare/v1.2.0...v1.2.1) (2025-01-01)
 
 
 ### Bug Fixes
 
-* kiss ([7388609](https://github.com/qthedoc/cicd2/commit/73886093e06119a017e92d15c2cec2cb50a31751))
+* reorder yaml ([a8b0fb1](https://github.com/qthedoc/cicd/commit/a8b0fb13d000e82034fe4a163ff72ab2a70b600f))
+
+## [1.2.0](https://github.com/qthedoc/cicd/compare/v1.1.0...v1.2.0) (2024-12-31)
+
+
+### Features
+
+* new line ([1a43f0f](https://github.com/qthedoc/cicd/commit/1a43f0fb3f51afca1e1a3e9f378c151af5ae83e0))
+
+## [1.1.0](https://github.com/qthedoc/cicd/compare/v1.0.1...v1.1.0) (2024-12-31)
+
+
+### Features
+
+* only run manually (i added this in the release PR) ([7510564](https://github.com/qthedoc/cicd/commit/75105649dfe95e178ef8a48d6be28309aed03e66))
+
+## [1.0.1](https://github.com/qthedoc/cicd/compare/v1.0.0...v1.0.1) (2024-12-31)
+
+
+### Bug Fixes
+
+* how bout you ([ae7630f](https://github.com/qthedoc/cicd/commit/ae7630fe8da76f8a547ba20a176354121bda2ec2))
+* stuff ([908afd3](https://github.com/qthedoc/cicd/commit/908afd39e54eafe5e0bfd8e9228ab6afd880b97e))
+
+## 1.0.0 (2024-12-31)
+
+
+### Bug Fixes
+
+* i got worms ([f0bf084](https://github.com/qthedoc/cicd/commit/f0bf084e489af6a946a9f3f4382662e23ac12be1))
